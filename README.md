@@ -44,7 +44,7 @@ Now the extension is ready to use!
     cd backend
 2. Install Python dependencies (Windows):
     ```
-    Scripts/venv/activate
+    venv/Scripts/activate
     pip install -r requirements.txt
 3. Create a .env file in the backend directory and add the required environment variables:
     ```
